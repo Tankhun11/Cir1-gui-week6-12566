@@ -9,8 +9,8 @@ void main(){
   print(++y);//prefix value = 6 : 5 = 5 + 1
   print(++y);//prefix value = 7 : 7 = 6 + 1
 
-  print(z--);//prefix value = 20 : 20 = 20 - 1
-  print(z--);//prefix value = 19 : 19 = 20 - 1
+  print(z--);//postfix value = 20 : 20 = 20 - 1
+  print(z--);//postfix value = 19 : 19 = 20 - 1
 
   print(--u);//prefix value = 24 : 24 = 25 - 1
   print(--u);//prefix value = 23 : 23 = 24 - 1
